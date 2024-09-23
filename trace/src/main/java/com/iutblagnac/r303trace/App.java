@@ -1,11 +1,11 @@
 package com.iutblagnac.r303trace;
 
 /**
- * Hello world!
+ * Hello world!my friend
  *
  */
-public class App 
-{
+public class App   
+{   
     public static void main( String[] args )
     {
         System.out.println(hello());
